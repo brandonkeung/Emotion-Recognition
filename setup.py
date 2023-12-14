@@ -13,7 +13,8 @@ setup(
         'numpy',
         'pandas',
         'tqdm',
-        'os',
         'scikit-learn',
+        'opencv-python',
+        'tensorflow',
     ],
 )
