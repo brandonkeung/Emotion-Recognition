@@ -14,5 +14,7 @@ setup(
         'pandas',
         'tqdm',
         'scikit-learn',
+        'opencv-python',
+        'tensorflow',
     ],
 )
